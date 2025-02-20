@@ -1,4 +1,4 @@
-# 	`#0969DA`**Introdução ao meu perfil**
+# **Introdução ao meu perfil**
 
 ### **Olá, eu sou o Matheus Hideki!** 👋
 Atualmente trabalho como técnico em uma assistência técnica, mas estou mergulhando no mundo do desenvolvimento de software! 💻🚀 Estou cursando Desenvolvimento Full Stack e explorando diferentes tecnologias para aprimorar minhas habilidades.
@@ -6,6 +6,9 @@ Atualmente trabalho como técnico em uma assistência técnica, mas estou mergul
 No momento, meus projetos são pessoais, focados no aprendizado e na prática. Aqui no GitHub, você vai encontrar repositórios com estudos, experimentos e minha evolução como desenvolvedor.
 
 Sempre aberto a trocar ideias e aprender mais! Vamos codar? 😃
+
+> [!IMPORTANT]
+> you never know if you never try
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media.tenor.com/DM7SdBiQKhEAAAAM/cat-underwater.gif)
 
