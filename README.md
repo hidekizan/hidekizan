@@ -7,8 +7,7 @@ No momento, meus projetos são pessoais, focados no aprendizado e na prática. A
 
 Sempre aberto a trocar ideias e aprender mais! Vamos codar? 😃
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media.tenor.com/DM7SdBiQKhEAAAAM/cat-underwater.gif)
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.pinimg.com/originals/fe/d4/b3/fed4b3667c5ad72877f4f55a95d8b3ca.gif)
 
 
 
