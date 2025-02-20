@@ -7,12 +7,11 @@ No momento, meus projetos são pessoais, focados no aprendizado e na prática. A
 
 Sempre aberto a trocar ideias e aprender mais! Vamos codar? 😃
 
-> [!IMPORTANT]
-> you never know if you never try
-
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media.tenor.com/DM7SdBiQKhEAAAAM/cat-underwater.gif)
 
 
+> [!IMPORTANT]
+> you never know if you never try
 
 
 <!--
