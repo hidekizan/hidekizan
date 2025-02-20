@@ -1,4 +1,15 @@
-## Lorem ipsum dolor sit amet. Ut totam dolorem ut eius laudantium in incidunt laborum ut cumque neque. Est ipsa dolore sit internos quam eum commodi doloribus et voluptatum quasi id recusandae consequatur. Aut ipsum odit non minima aliquam ut labore rerum in dolorum beatae. Et velit autem ut omnis tempore At necessitatibus adipisci sit aperiam dignissimos aut consectetur tempora eum ipsam exercitationem.
+Olá, eu sou o Matheus Hideki! 👋
+Atualmente trabalho como técnico em uma assistência técnica, mas estou mergulhando no mundo do desenvolvimento de software! 💻🚀 Estou cursando Desenvolvimento Full Stack e explorando diferentes tecnologias para aprimorar minhas habilidades.
+
+No momento, meus projetos são pessoais, focados no aprendizado e na prática. Aqui no GitHub, você vai encontrar repositórios com estudos, experimentos e minha evolução como desenvolvedor.
+
+Sempre aberto a trocar ideias e aprender mais! Vamos codar? 😃
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
 
 <!--
 **hiwdeki3663/hiwdeki3663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
