@@ -1,4 +1,4 @@
-# **Introdução ao meu perfil**
+# 	`#0969DA`**Introdução ao meu perfil**
 
 ### **Olá, eu sou o Matheus Hideki!** 👋
 Atualmente trabalho como técnico em uma assistência técnica, mas estou mergulhando no mundo do desenvolvimento de software! 💻🚀 Estou cursando Desenvolvimento Full Stack e explorando diferentes tecnologias para aprimorar minhas habilidades.
