@@ -1,4 +1,6 @@
-Olá, eu sou o Matheus Hideki! 👋
+# **Introdução ao meu perfil**
+
+## **Olá, eu sou o Matheus Hideki!** 👋
 Atualmente trabalho como técnico em uma assistência técnica, mas estou mergulhando no mundo do desenvolvimento de software! 💻🚀 Estou cursando Desenvolvimento Full Stack e explorando diferentes tecnologias para aprimorar minhas habilidades.
 
 No momento, meus projetos são pessoais, focados no aprendizado e na prática. Aqui no GitHub, você vai encontrar repositórios com estudos, experimentos e minha evolução como desenvolvedor.
