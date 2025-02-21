@@ -10,10 +10,6 @@ Sempre aberto a trocar ideias e aprender mais! Vamos codar? 😃
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media.tenor.com/DM7SdBiQKhEAAAAM/cat-underwater.gif)
 
 
-> [!IMPORTANT]
-> you never know if you never try
-
-
 <!--
 **hiwdeki3663/hiwdeki3663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
