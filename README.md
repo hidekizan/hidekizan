@@ -1,7 +1,7 @@
 # Olá, eu sou o Matheus Hideki! 👋
 
 ## Sobre Mim
-Sou técnico em assistência técnica e estou mergulhando no universo do desenvolvimento de software! Atualmente, estou cursando **Desenvolvimento Full Stack** e explorando diversas tecnologias para aprimorar minhas habilidades. Estou sempre em busca de aprender coisas novas e evoluir a cada projeto. 🚀
+Sou técnico em uma assistência técnica e estou mergulhando no universo do desenvolvimento de software! Atualmente, estou cursando **Desenvolvimento Full Stack** e explorando diversas tecnologias para aprimorar minhas habilidades. Estou sempre em busca de aprender coisas novas e evoluir a cada projeto. 🚀
 
 ## Tecnologias & Ferramentas
 <!-- Adicione ou remova conforme suas habilidades -->
@@ -15,11 +15,6 @@ Aqui no GitHub, você vai encontrar repositórios com estudos, experimentos e pr
 
 ## Contato
 Se quiser trocar ideias ou bater um papo sobre tecnologia, estou sempre aberto!  
-- **Email:** [seu-email@example.com](mailto:seu-email@example.com)
-- **LinkedIn:** [SeuPerfil](https://www.linkedin.com)
-
-## Curiosidades & Extras
-- Atualmente, estou experimentando novas abordagens em **[insira alguma tecnologia ou ferramenta que esteja estudando]**.
-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+- **Email:** [matheushideky@hotmail.com](mailto:matheushideky@hotmail.com)
 
 ![Imagem divertida](https://media.tenor.com/DM7SdBiQKhEAAAAM/cat-underwater.gif)
